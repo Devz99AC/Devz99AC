@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT Professional with a Higher Technical Degree (TSU) in Informatics.<br><br>Experienced in Data Analysis and proficient in programming languages including C#, C++, and Apex.<br><br>Skilled in game development using the Unity engine.<br><br>Proficient in database management and handling electronic equipment.<br><br>A proactive, analytical, and adaptable problem-solver.<br><br>Strong ability to work effectively within a team environment.
+IT Professional with a Higher Technical Degree in Computer Science.<br><br>Experienced in Data Analysis and proficient in programming languages including C#, C++, and Apex.<br><br>Skilled in game development using the Unity engine.<br><br>Proficient in database management and handling electronic equipment.<br><br>A proactive, analytical, and adaptable problem-solver.<br><br>Strong ability to work effectively within a team environment.
 
 
 ## 🌐 Socials:
