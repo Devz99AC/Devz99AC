@@ -3,7 +3,12 @@ IT Professional with a Higher Technical Degree in Computer Science.<br><br>Exper
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devinzon-acosta/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devinzond@gmail.com) 
+<a href="https://linkedin.com/in/devinzon-acosta/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:devinzond@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+</a>
 
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
@@ -13,6 +18,6 @@ IT Professional with a Higher Technical Degree in Computer Science.<br><br>Exper
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devz99AC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devz99AC&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in" target="_blank">
+  <img src="https://visitcount.itsvg.in/api?id=Devz99AC&icon=0&color=0" alt="visit count">
+</a>
