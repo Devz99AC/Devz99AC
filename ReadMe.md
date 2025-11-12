@@ -16,5 +16,3 @@ IT Professional with a Higher Technical Degree in Computer Science.<br><br>Exper
 ![](https://github-readme-stats.vercel.app/api?username=Devz99AC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Devz99AC&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devz99AC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
