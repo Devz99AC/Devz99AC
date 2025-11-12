@@ -18,6 +18,4 @@ IT Professional with a Higher Technical Degree in Computer Science.<br><br>Exper
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devz99AC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer">
-  <img src="https://visitcount.itsvg.in/api?id=Devz99AC&icon=0&color=0" alt="visit count">
 </a>
