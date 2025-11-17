@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/2BeI1aXN3HsAAAAj/binoh-chaos-cat.gif" />
+<img align="right" height="250" src="https://media.tenor.com/2BeI1aXN3HsAAAAj/binoh-chaos-cat.gif" />
 
 ###
 
