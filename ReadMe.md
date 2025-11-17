@@ -12,8 +12,7 @@
         <br>
         Skilled in game development using the Unity engine.
       </p>
-      
-      <div align="left">
+            <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
         <img width="8" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
@@ -29,7 +28,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
       </div>
     </td>
-
     <td width="35%" align="center" valign="middle">
       <img src="https://media.tenor.com/2BeI1aXN3HsAAAAj/binoh-chaos-cat.gif" width="100%" style="max-width:200px;" />
     </td>
