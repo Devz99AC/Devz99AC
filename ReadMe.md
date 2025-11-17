@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">IT Professional with a Higher Technical Degree in Computer Science.<br>Experienced in Data Analysis and proficient in programming languages including C#, C++, and Apex.<br><br>Skilled in game development using the Unity engine.</p>
+<p align="left">IT Professional with a Higher Technical Degree in Computer Science.<br>Experienced in Data Analysis and proficient in programming languages including C#, C++ and Apex.<br><br>Skilled in game development using the Unity engine.</p>
 
 ###
 
